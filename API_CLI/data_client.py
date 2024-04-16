@@ -19,7 +19,7 @@ class Data_client(ABC):
     @abstractmethod
     def delete(self):
         pass
-'new commit'
+'n'
 
 class Sqlite(Data_client):
 
